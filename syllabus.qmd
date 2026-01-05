@@ -121,6 +121,14 @@ WHWs:  Regular problem-solving is very important to developing confidence and sk
 
 You may request extensions on the WHWs using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
 
+| Letter (pts)  | Practice                  |
+|---------------|---------------------------|
+| A (4.0)       | Earn >= 90% average on WHWs. Complete >= 90%  of PCQs        |
+| B (3.0)       | Earn >= 80% average on WHWs. Complete >= 80%  of PCQs        |
+| C (2.0)       | Earn >= 70% average on WHWs. Complete >= 70%  of PCQs        |
+| D (1.0)       | Earn >= 60% average on WHWs. Complete >= 60%  of PCQs        |
+: Bundle grades {.striped .hover}
+
 
 #### Group Work {#groupwork}
 Group Problems: Each week, your team will be responsible for completing and doing a formal write-up of one problem. You will submit one write-up together on Lyceum, which must be type-set and clearly organized. You may type-set using LaTeX/overleaf, Google docs, or any other word processing software that can handle mathematical expressions. For each part, make sure you include at least one sentence that describes the reasoning/explanation for the math you applied. This will be graded on correctness, thoroughness, and clarity, and will receive a grade of E, M, R, or N. Group problems receiving an R may be revised once.
