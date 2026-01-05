@@ -4,7 +4,11 @@
     "href": "index.html",
     "title": "PHYS 301 Winter 2026",
     "section": "",
+<<<<<<< HEAD
     "text": "Welcome!\nIf this is your first time on the course website, I recommend you\nStart Here"
+=======
+    "text": "Welcome to the Winter 2025 class of PHYS 301!\nIf this is your first time on the course website, I recommend you\nStart Here"
+>>>>>>> 1803ef60579d37e7983b25ebf8eeeb27c0bbbd52
   },
   {
     "objectID": "index.html#course-description",
