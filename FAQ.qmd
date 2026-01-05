@@ -15,7 +15,7 @@ editor: source
 ## When and where is class?
 
 -   When: Monday, Wednesday, and Friday 9:30AM-10:50AM
--   Where: Pettengill G52
+-   Where: Dana 206
 
 ## Where do I get my textbook?
 
@@ -47,7 +47,7 @@ If you are enrolled in the class but do not have access to Lyceum, please let me
 
 ## When is \_\_ due? {#duedates}
 
-You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1ATIW9JOFjy4RrpkDDVlPmpAu8Xam2mlBBqe81dkcpiY/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/19-EPQYP7odazQjvrtAzE8UK13XS-JzKzdjV7Q6v7lBk/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
 
 ## Can I have an extension? {#extensionpolicy}
 
@@ -61,15 +61,13 @@ For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#d
 
 ## Can I re-do something I did poorly on? {#revisionpolicy}
 
-You can revise your quizzes if you receive an M or a U (you will also have to do a reflection, and the expectations on revised work are higher than on the original). You can also revise group problems (as a group), but only if you receive a U (Ms on group projects cannot be revised).
+You can retake your quizzes if you receive an R. You can also revise group problems (as a group), but only if you receive an R.
 
 PCQs and WHWs cannot be revised, nor can community engagement. You also cannot revise anything you don't turn in (receiving an N means you lose the chance to try again, so turn things in!).
 
 ## When will you reply to my email? {#emails}
 
-Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.
-
-If you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.
+Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email, and I get dozens of emails every day. If your email needs a reply, I will try to get back within 48 hours, but if it's timely and I haven't gotten back to you, please feel free to follow up or speak to me in person. Please make sure you've checked the syllabus, Lyceum, and your own emails for answers to questions before you email me to ask about a due date or request an extension.
 
 
 ## Do you grade on a curve? {#gradingcurve}
@@ -77,7 +75,7 @@ If you email me on a weekday, you can expect a response from me within 48 hours.
 Grades are not curved; your grade depends only on your own performance. Supporting your fellow students will help every one of you, and I hope you will work together on homeworks and study together for tests.
 
 
-## Can I use ChatGPT in this class? {#ChatGPT}
+## Can I use ChatGPT or Google Gemini in this class? {#ChatGPT}
 
 Large Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:
 

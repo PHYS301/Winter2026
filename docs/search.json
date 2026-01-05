@@ -72,7 +72,7 @@
     "href": "FAQ.html",
     "title": "FAQ",
     "section": "",
-    "text": "When: Monday, Wednesday, and Friday 9:30AM-10:50AM\nWhere: Pettengill G52",
+    "text": "When: Monday, Wednesday, and Friday 9:30AM-10:50AM\nWhere: Dana 206",
     "crumbs": [
       "FAQ"
     ]
@@ -82,7 +82,7 @@
     "href": "FAQ.html#when-and-where-is-class",
     "title": "FAQ",
     "section": "",
-    "text": "When: Monday, Wednesday, and Friday 9:30AM-10:50AM\nWhere: Pettengill G52",
+    "text": "When: Monday, Wednesday, and Friday 9:30AM-10:50AM\nWhere: Dana 206",
     "crumbs": [
       "FAQ"
     ]
@@ -152,7 +152,7 @@
     "href": "FAQ.html#revisionpolicy",
     "title": "FAQ",
     "section": "Can I re-do something I did poorly on?",
-    "text": "Can I re-do something I did poorly on?\nYou can revise your quizzes if you receive an M or a U (you will also have to do a reflection, and the expectations on revised work are higher than on the original). You can also revise group problems (as a group), but only if you receive a U (Ms on group projects cannot be revised).\nPCQs and WHWs cannot be revised, nor can community engagement. You also cannot revise anything you don’t turn in (receiving an N means you lose the chance to try again, so turn things in!).",
+    "text": "Can I re-do something I did poorly on?\nYou can retake your quizzes if you receive an R. You can also revise group problems (as a group), but only if you receive an R.\nPCQs and WHWs cannot be revised, nor can community engagement. You also cannot revise anything you don’t turn in (receiving an N means you lose the chance to try again, so turn things in!).",
     "crumbs": [
       "FAQ"
     ]
@@ -162,7 +162,7 @@
     "href": "FAQ.html#emails",
     "title": "FAQ",
     "section": "When will you reply to my email?",
-    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.\nIf you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.",
+    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email, and I get dozens of emails every day. If your email needs a reply, I will try to get back within 48 hours, but if it’s timely and I haven’t gotten back to you, please feel free to follow up or speak to me in person. Please make sure you’ve checked the syllabus, Lyceum, and your own emails for answers to questions before you email me to ask about a due date or request an extension.",
     "crumbs": [
       "FAQ"
     ]
@@ -181,8 +181,8 @@
     "objectID": "FAQ.html#ChatGPT",
     "href": "FAQ.html#ChatGPT",
     "title": "FAQ",
-    "section": "Can I use ChatGPT in this class?",
-    "text": "Can I use ChatGPT in this class?\nLarge Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:\n\nThat you do a little reading on Large Language Models. Specifically, read this article about how LLMs actually work and this article about the ethical considerations around LLMs\nThat you consider the LLM a source that you must cite. If you use generative AI to help with any assignment, you must acknowledge that help and give a short (two-sentence) description of what the LLM did for you and how it helped you solve the problem.\n\nRemember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to “hallucinating” (making stuff up, often in a way that is convincing but still false). They can’t do creative problem solving, which is the most important skill we are trying to develop in this class.",
+    "section": "Can I use ChatGPT or Google Gemini in this class?",
+    "text": "Can I use ChatGPT or Google Gemini in this class?\nLarge Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:\n\nThat you do a little reading on Large Language Models. Specifically, read this article about how LLMs actually work and this article about the ethical considerations around LLMs\nThat you consider the LLM a source that you must cite. If you use generative AI to help with any assignment, you must acknowledge that help and give a short (two-sentence) description of what the LLM did for you and how it helped you solve the problem.\n\nRemember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to “hallucinating” (making stuff up, often in a way that is convincing but still false). They can’t do creative problem solving, which is the most important skill we are trying to develop in this class.",
     "crumbs": [
       "FAQ"
     ]
@@ -222,7 +222,7 @@
     "href": "starthere.html",
     "title": "Start Here",
     "section": "",
-    "text": "Welcome to PHYS 301, Winter 2026!\nNot sure where to start? I’ve put together a guide.\nThis website contains the syllabus, schedule, and FAQ. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.\n\nGet the textbook\nIf you have not yet, please make sure you get the textbook for this class, which is “Mathematical Methods in Engineering and Physics” (Wiley, 2016) by Felder and Felder. The library should have copies available, but you can also purchase it at the Bates bookstore.\n\nTo find the library copies, go to librarysearch.bates.edu and search for the course number or my name. Write down the book’s call number and ask for it at the library.\n\n\nFill out the welcome form\nThe first thing you should do for this class is fill out the welcome form. This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!\n\n\nRead the syllabus\nI’ve tried to make the syllabus relatively short, sweet, and well-organized. It’s all on this website, so please take a minute to read the syllabus page.\n\n\nKeep an eye on the schedule\nThe schedule for this class is in a google doc so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.\n\n\nStill have questions?\nIf you’ve read the syllabus and still have questions, check out the FAQ. If you have a question that’s not answered on that page, please feel free to email me! I’ve tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.\n\n\nHave concerns?\nI know it can be intimidating to talk to a professor about sensitive topics. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you). Please be respectful and thoughtful when filling out this form, as I use it to improve classroom dynamics and it’s here to make everyone’s experience better.",
+    "text": "Welcome to PHYS 301, Winter 2026!\nNot sure where to start? I’ve put together a guide.\nThis website contains the syllabus, schedule, and FAQ. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.\n\nGet the textbook\nIf you have not yet, please make sure you get the textbook for this class, which is “Mathematical Methods in Engineering and Physics” (Wiley, 2016) by Felder and Felder. The library should have copies available, but you can also purchase it at the Bates bookstore.\n\nTo find the library copies, go to librarysearch.bates.edu and search for the course number or my name. Write down the book’s call number and ask for it at the library.\n\n\nFill out the welcome form\nThe first thing you should do for this class is fill out the welcome form. This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!\n\n\nRead the syllabus\nI’ve tried to make the syllabus relatively short, sweet, and well-organized. It’s all on this website, so please take a minute to read the syllabus page.\n\n\nKeep an eye on the schedule\nThe schedule for this class is in a google sheet so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.\n\n\nStill have questions?\nIf you’ve read the syllabus and still have questions, check out the FAQ. If you have a question that’s not answered on that page, please feel free to email me! I’ve tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.\n\n\nHave concerns?\nI know it can be intimidating to talk to a professor about sensitive topics. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you). Please be respectful and thoughtful when filling out this form, as I use it to improve classroom dynamics and it’s here to make everyone’s experience better.",
     "crumbs": [
       "Start Here"
     ]

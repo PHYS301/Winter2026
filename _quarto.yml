@@ -14,7 +14,7 @@ website:
       - href: https://phys301.github.io/
         text: "Course Description"
         target: _blank #makes it open in new page
-      - href: https://docs.google.com/spreadsheets/d/1ATIW9JOFjy4RrpkDDVlPmpAu8Xam2mlBBqe81dkcpiY/edit?usp=sharing
+      - href: https://docs.google.com/spreadsheets/d/19-EPQYP7odazQjvrtAzE8UK13XS-JzKzdjV7Q6v7lBk/edit?usp=sharing
         text: "Schedule" 
         target: _blank #makes it open in new page
       - sidebar:syllabus
