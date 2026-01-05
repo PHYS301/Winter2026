@@ -6,7 +6,7 @@ format:
 editor: source
 ---
 
-Welcome to PHYS 301, Winter 2025!
+Welcome to PHYS 301, Winter 2026!
 
 Not sure where to start? I've put together a guide.
 
