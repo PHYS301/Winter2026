@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "PHYS 301 Winter 2025"
+  title: "PHYS 301 Winter 2026"
   navbar:
     background: primary #color of background is primary color in palette
     search: true
