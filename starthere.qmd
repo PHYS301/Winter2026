@@ -1,0 +1,43 @@
+---
+title: "Start Here"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+Welcome to PHYS 301, Winter 2025!
+
+Not sure where to start? I've put together a guide.
+
+This website contains the syllabus, schedule, and FAQ. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
+
+# Get the textbook
+
+If you have not yet, please make sure you get the textbook for this class, which is "Mathematical Methods in Engineering and Physics" (Wiley, 2016) by Felder and Felder. The library should have copies available, but you can also purchase it at the Bates bookstore.
+
+![](images/FelderFelder.jpg){width=200}
+
+To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.edu) and search for the course number or my name. Write down the book's call number and ask for it at the library.
+
+# Fill out the welcome form
+
+The first thing you should do for this class is fill out the [welcome form](https://forms.gle/hgknPY8MbEc5tkcg9). This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!
+
+# Read the syllabus
+
+I've tried to make the syllabus relatively short, sweet, and well-organized. It's all on this website, so please take a minute to read the [syllabus page](syllabus.qmd).
+
+# Keep an eye on the schedule
+
+The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1ATIW9JOFjy4RrpkDDVlPmpAu8Xam2mlBBqe81dkcpiY/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
+
+# Still have questions?
+
+If you've read the syllabus and still have questions, check out the [FAQ](FAQ.qmd). If you have a question that's not answered on that page, please feel free to email me! I've tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.
+
+# Have concerns?
+
+I know it can be intimidating to talk to a professor about sensitive topics. If something has made you uncomfortable, or if you think there is something I should know about, but don't feel comfortable speaking with me directly, I have an [anonymous feedback form](https://forms.gle/h1dzxVJKPEVo3v467) you can fill out. 
+
+This form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you). Please be respectful and thoughtful when filling out this form, as I use it to improve classroom dynamics and it's here to make everyone's experience better.
