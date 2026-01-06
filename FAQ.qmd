@@ -14,8 +14,7 @@ editor: source
 ---
 ## When and where is class?
 
--   When: Monday, Wednesday, and Friday 9:30AM-10:50AM
--   Where: Dana 206
+These details are posted in Lyceum, and are in the google calendar event sent to you by the registrar when you signed up for the class.
 
 ## Where do I get my textbook?
 
@@ -29,11 +28,9 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ## When are your office hours? {#officehours}
 
-I will have two hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).
+I will have three hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).
 
-Office hours will be scheduled after the first week of class, using input from the first week of class form to maximize the overlap in my schedule and all of yours (this will not be perfect, but I will do my best).
-
-If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum, along with the calendly.
+The location for office hours will be posted in Lyceum, and will be a classroom. If you schedule a one-on-one meeting, it will be in my office. The location of my office is posted in Lyceum, along with the calendly link.
 
 ## Should I go to office hours? {#goingtoofficehours}
 
