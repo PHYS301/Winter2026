@@ -139,7 +139,7 @@ At the end of the term, you will earn a letter grade for this course. That lette
 
 Overall Score = (Practice score + Group Work score + Quizzes score + Excellence score) / 16
 
-![](images/PHYS301foursquare.png){width=1000}
+![](images/PHYS301foursquare.jpg){width=800}
 
 The resulting overall score will correspond to a letter grade using the percentage table below:
 
