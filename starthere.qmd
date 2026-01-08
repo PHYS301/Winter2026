@@ -20,13 +20,23 @@ If you have not yet, please make sure you get the textbook for this class, which
 
 To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.edu) and search for the course number or my name. Write down the book's call number and ask for it at the library.
 
-# Fill out the welcome form
-
-The first thing you should do for this class is fill out the [welcome form](https://forms.gle/hgknPY8MbEc5tkcg9). This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!
-
 # Read the syllabus
 
 I've tried to make the syllabus relatively short, sweet, and well-organized. It's all on this website, so please take a minute to read the [syllabus page](syllabus.qmd).
+
+If you need help navigating to a specific topic in the syllabus, here's a rough outline:
+
+[Classroom Expectations](syllabus.qmd#classexpectations)
+
+[Team-Based Learning](syllabus.qmd#tbl)
+
+[Deadline and Extension Policy](syllabus.qmd#extensions)
+
+[Technology and AI Policy](syllabus.qmd#techpolicy)
+
+[Grading Scheme](syllabus.qmd#grading)
+
+[Assignments](syllabus.qmd#assignments)
 
 # Keep an eye on the schedule
 
