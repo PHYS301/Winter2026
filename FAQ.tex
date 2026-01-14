@@ -1,0 +1,387 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={FAQ},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{FAQ}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\section{Where do I get my textbook?}\label{where-do-i-get-my-textbook}
+
+The textbook for this class is ````Mathematical Methods in Engineering
+and Physics'' (Wiley, 2016) by Felder and Felder. The library should
+have copies available, but you can also purchase it at the Bates
+bookstore.
+
+To find the library copies, go to \url{librarysearch.bates.edu} and
+search for the course number or my name. Write down the book's call
+number and ask for it at the library.
+
+\includegraphics[width=2.08333in,height=\textheight]{images/FelderFelder.jpg}
+
+\section{When and where is class?}\label{when-and-where-is-class}
+
+These details are posted in Lyceum, and are in the google calendar event
+sent to you by the registrar when you signed up for the class.
+
+\section{What should I call you?}\label{what-should-i-call-you}
+
+While my formal title would be ``Doctor'' or ``Professor,'' I don't
+require you to use that title with me. I am more than comfortable being
+referred to as ``Casey,'' so what you choose to call me will depend on
+your own level of comfort.
+
+I just ask that you never call me ``Ms.'' or ``Mrs.'' -- if you are
+going to use a formal title for me, please use the one I earned over
+five years of hard work in my doctorate. If you don't understand why
+this distinction matters to me, I highly recommend that you look into
+the
+\href{https://www.liebertpub.com/doi/abs/10.1089/jwh.2016.6044?journalCode=jwh}{research}
+or
+\href{https://med.stanford.edu/news/all-news/2006/07/transgender-experience-led-stanford-scientist-to-critique-gender-difference.html}{anecdotal
+evidence} on the disparities between how men and male-presenting people
+are addressed versus how women and female-presenting people are
+addressed, even when they have the same level of expertise.
+
+\section{When are your office hours?}\label{officehours}
+
+I will have three hours of office hours a week, plus time reserved in my
+schedule for one-on-one meetings. You can schedule the meetings through
+calendly (link in Lyceum).
+
+The dates, times, and locations for office hours will be posted in
+Lyceum. If you schedule a one-on-one meeting, it will be in my office.
+The location of my office is posted in Lyceum, along with the calendly
+link.
+
+\section{Should I go to office hours?}\label{goingtoofficehours}
+
+Office hours are my open hours, when I have specifically set aside time
+to talk to my students (that's you!). Please always feel free to come
+by. You can ask questions about homework, concepts from class, projects,
+careers in physics, navigating the major, or anything else you want to
+ask. I will prioritize questions about course content, but I'm always
+happy to talk about other questions you might have. This is true of the
+one-on-one meetings as well.
+
+\section{What if I can't make it to your scheduled office
+hours?}\label{what-if-i-cant-make-it-to-your-scheduled-office-hours}
+
+It's impossible to find a time in my schedule that works in everyone
+else's schedule, and sometimes it happens that I schedule office hours
+that don't work for a few people. But this doesn't mean you can't get
+help! If you can't make it to my scheduled office hours, you have two
+options:
+
+\begin{itemize}
+\tightlist
+\item
+  Schedule a one-on-one meeting with me in calendly (link in Lyceum)
+\item
+  Go to SASC and work with a peer tutor
+\end{itemize}
+
+My calendly sometimes books up, especially close to exam dates, so I
+recommend trying to schedule ahead of time. If you have an urgent
+question and there are no available calendly slots, please feel free to
+reach out to me via email.
+
+\section{Can the syllabus change?}\label{can-the-syllabus-change}
+
+Yes, under certain conditions. The schedule may change in small ways --
+this will happen if there is a disruption in the schedule (e.g.~I am
+sick and have to cancel class, a snow day prevents us from meeting, some
+other emergency or surprise causes class to be cancelled). More often,
+what will happen is we will need a little more time on a topic, and I
+will push other topics a day or two. I build in a number of ``catch-up
+days'' into the schedule in order to make sure that when this happens,
+it doesn't require a total rewrite of the class.
+
+The syllabus may also change if we agree together as a class to cut or
+modify an assignment, or if I determine that the grading scheme has set
+the bar too high. I will never modify assignments or grading in a way
+that harms your grade, and if a change to either of those has you
+concerned, please come talk to me and we will determine together a
+reasonable alternative if that is needed.
+
+Finally, I reserve the right always to modify typos, etc. If you spot
+one of these, let me know, so I can fix it!
+
+Any changes to the syllabus will be documented in the
+\href{changelog.qmd}{changelog}
+
+\section{Where do I find assignment instructions/course
+handouts/slides?}\label{findstuff}
+
+I created this website to make the syllabus and basic questions about
+the course easy, but not everything will be here. Handouts, in-class
+activities, specific assignments, and class slides will all be in the
+course page on Lyceum.
+
+If you are enrolled in the class but do not have access to Lyceum,
+please let me know immediately so I can add you.
+
+\section{When is \_\_ due?}\label{duedates}
+
+You can find all due dates on the course schedule (link at the top of
+the page). Dates are subject to change, but will always be kept up to
+date on the schedule so check back if you're not sure.
+
+\section{Can I have an extension?}\label{extensionpolicy}
+
+In general, I am happy to work with you on deadlines, but it's important
+for you to communicate with me. You can request extensions using
+\href{https://forms.gle/zwnNC37WGg4fV3ZN8}{this form}. Note that some
+assignments cannot be extended, and you can learn more about that by
+reading more about the \href{syllabus.qmd\#assignments}{specific
+assignments}. Requesting an extension on the form for something that
+can't be extended will not result in an extension. If you have a special
+case that you think qualifies as an exception (e.g.~an extended medical
+absence, family emergency, etc), please email me to work out a new
+schedule for assignments.
+
+Please note that the 48 hour extension in the form is automatically
+granted for extendable assignments, while anything longer than that
+requires that we have a conversation. That conversation starts by you
+proposing a new deadline in the form, and then I can talk to you about
+what's possible or reasonable given the course schedule, your
+circumstances, and other factors that may vary as the semester
+progresses.
+
+For more on my deadlines and extension policy, see the
+\href{syllabus.qmd\#deadlines}{syllabus}.
+
+\section{Can I re-do something I did poorly on?}\label{revisionpolicy}
+
+Some assessments can be revised or re-tried. Please read up on each kind
+of assignment in the class to see which ones can be revised or not.
+Generally, if something is graded EMRN and you receive an R, you can
+retry or revise it, provided there is enough time left in the semester
+for a revision to occur (e.g.~if you turn something in to me on the last
+day of the exam period, it cannot be revised due to time constraints).
+You also cannot revise anything you don't turn in (receiving an N means
+you lose the chance to try again, so turn things in!).
+
+\section{When will you reply to my email?}\label{emails}
+
+Timely communication is really important, but in order to be an
+effective instructor and a well-adjusted human, I also need to be able
+to take breaks from email, and I frequently get over a hundred emails in
+a given day. If your email needs a reply, I will try to get back within
+48 hours, but if it's timely and I haven't gotten back to you, please
+feel free to follow up or speak to me in person. Please make sure you've
+checked the syllabus, Lyceum, and your own emails for answers to
+questions before you email me to ask about a due date or request an
+extension.
+
+\section{Do you grade on a curve?}\label{gradingcurve}
+
+Grades are not curved; your grade depends only on your own performance.
+Supporting your fellow students will help every one of you, and I hope
+you will work together on homeworks and study together for tests.
+
+\section{Can I use ChatGPT or Google Gemini in this
+class?}\label{ChatGPT}
+
+While I do not outright ban the use of LLMs, I do expect you to educate
+yourself on their impacts (social, intellectual, environmental, and
+economic), and to use them appropriately, cautiously, and with
+integrity. In my \href{syllabus.qmd\#llms}{AI policy} I include links to
+some articles that I hope you will see just as a starting point in
+learning about these issues. If you encounter other articles that you
+find informative, interesting, or useful about this topic, please pass
+them on to me! I would love to read them.
+
+Regarding the practical aspects of using LLMs in your work for this
+course, the first and most important point is that you may never pass
+off work done by an LLM as your own work if you wish to receive credit
+for the assignment. Please make sure you read my full \hyperref[llms]{AI
+policy}, including the articles I linked, and ask me if you have any
+questions about the policy or are not sure if your use of an LLM would
+fall under an acceptable use.
+
+\section{What should I do if I get behind on my work?}\label{catchingup}
+
+First, reach out to me. It helps me to know that you are working on
+catching up. I am also happy to meet and help you set adjusted deadlines
+to get back on track.
+
+Second, if you are feeling really overwhelmed, consider scheduling an
+appointment with
+\href{https://www.bates.edu/student-academic-support-center/learning-strategies/}{a
+learning strategies tutor} at the Student Academic Support Center. Their
+role is to support students seeking help with time management,
+organization, reading, test-taking, note-taking, and other academic
+skills. They can help you talk through what strategies work for you,
+what strategies don't, and how to manage your time and energy in a more
+sustainable way.
+
+\section{I have academic accommodations. What should I
+do?}\label{accommodations}
+
+I have tried to bring the concept of
+\href{https://www.washington.edu/doit/what-universal-design-0}{universal
+design} into how I have planned and structured this course, so I hope
+that any accommodations you have are already built into this course
+(aside from extra time on tests, which can't be accommodated during
+class times, but you can take the tests through
+\href{https://www.bates.edu/accessible-education-student-support/requesting-services/how-to-register-for-accommodations/}{Accessible
+Education and Student Support}. However, I don't expect to have done
+this perfectly (as there is no such thing), so if you have need of
+certain accommodations that are not already provided by this class,
+please let me know and I will do my best to meet those needs.
+
+\section{What if I need more support in this class?}\label{extrahelp}
+
+The Student Academic Support Center (SASC) has lots of tutors who can
+help you strengthen your math skills, problem solving skills, and study
+skills. Please reach out to them to see how they can help, in addition
+to coming to my office hours, where I am more than happy to walk through
+problems with you.
+
+
+
+\end{document}
