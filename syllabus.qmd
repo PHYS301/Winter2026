@@ -189,7 +189,7 @@ Under no circumstances can you revise something you receive an N on. Remember th
 :::
 
 
-### Grading bundles (#assignments)
+### Grading bundles {#assignments}
 
 ::: panel-tabset
 #### Practice {#practice}
