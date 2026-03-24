@@ -241,11 +241,11 @@ Quizzes are graded on an [E/M/R/N scale](#emrn). Each quiz will have a clear rub
 
 | Points  | Requirements                  |
 |------|--------------------|
-| 4.0     | At least M on all 10 |
-| 3.0     | At least M on 8 |
-| 2.0      | At least M on 6    |
-| 1.0      | At least M on 4 |
-| 0.0     | Fewer than 4 quizzes with M or higher |
+| 4.0     | At least M on 9 |
+| 3.0     | At least M on 7 |
+| 2.0      | At least M on 5    |
+| 1.0      | At least M on 3 |
+| 0.0     | Fewer than 3 quizzes with M or higher |
 : Bundle grades {.striped .hover}
 
 #### Excellence {#excellence}
@@ -253,11 +253,11 @@ There are 25 potential "E" grades you can earn in this class: 10 quizzes, 12 gro
 
 | Points  | Requirements     |
 |------|--------------------|
-| 4.0    | At least 20 Es        |
-| 3.0    | At least 15 Es        |
-| 2.0    | At least 10 Es        |
-| 1.0    | At least 5 Es         |
-| 0.0    | Fewer than 5 Es       |
+| 4.0    | At least 19 Es        |
+| 3.0    | At least 14 Es        |
+| 2.0    | At least 9 Es        |
+| 1.0    | At least 4 Es         |
+| 0.0    | Fewer than 4 Es       |
 : Bundle grades {.striped .hover}
 
 :::
