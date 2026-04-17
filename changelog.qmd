@@ -10,5 +10,7 @@ editor: source
 |------------|------------------------------|----------------------------------------------|
 | Jan 14, 2026 | N/A | First version of syllabus |
 | Mar 24, 2026 | Change to Weekly Quizzes and Excellence bundles - reducing number by 1 for each point level | Schedule change necessitating dropping one quiz |
+| Apr 17, 2026 | Updated metacognition language to reflect this year's assignments | This was an error in the syllabus to begin with |
+| Apr 17, 2026 | Reduced number of Es needed in each level of Excellence category by 2 | Change to grade policy per conversation in class on Monday April 13 |
 
 : Syllabus changes {.striped .hover}

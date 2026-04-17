@@ -253,11 +253,11 @@ There are 25 potential "E" grades you can earn in this class: 10 quizzes, 12 gro
 
 | Points  | Requirements     |
 |------|--------------------|
-| 4.0    | At least 19 Es        |
-| 3.0    | At least 14 Es        |
-| 2.0    | At least 9 Es        |
-| 1.0    | At least 4 Es         |
-| 0.0    | Fewer than 4 Es       |
+| 4.0    | At least 17 Es        |
+| 3.0    | At least 12 Es        |
+| 2.0    | At least 7 Es        |
+| 1.0    | At least 2 Es         |
+| 0.0    | Fewer than 2 Es       |
 : Bundle grades {.striped .hover}
 
 :::
@@ -281,15 +281,13 @@ If you demonstrate consistent improvement in your work across the semester, I re
 
 #### Metacognition 
 
-In order to get this boost, you must do 5 of the following 7 assignments:
+In order to get this boost, you must do 4 of the following 6 assignments:
 
   -   Read an article on growth mindset and reflect on how it applies to your own life
-  -   Fill out the first week of class form before the end of January
   -   Set a SMART goal (this will be evaluated on whether it meets the criteria) for a study skill to improve. You must do this before the end of January.
-  -   Fill out the mid-semester survey before the end of February Recess
   -   Schedule an appointment with [a learning strategies tutor](https://www.bates.edu/student-academic-support-center/learning-strategies/) at SASC and write a reflection on one thing you learned at that meeting
-  -   Bring questions to SASC at least once and write a reflection about your experience
-  -   Come to my office hours at least once and write a reflection about your experience
+  -   Bring questions to SASC at least twice and write a reflection about your experience (submit two forms, one for each visit)
+  -   Come to my office hours at least twice and write a reflection about your experience (submit two forms, one for each visit)
   -   Reflect on your SMART goal at the end of the semester
   
   These assignments will all be posted in Lyceum under the "Metacognition" tab.
